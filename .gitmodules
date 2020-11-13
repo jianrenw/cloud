@@ -1,0 +1,6 @@
+[submodule "dm_control"]
+	path = dm_control
+	url = https://github.com/deepmind/dm_control.git
+[submodule "dm_env"]
+	path = dm_env
+	url = https://github.com/deepmind/dm_env.git
