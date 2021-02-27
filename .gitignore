@@ -1,0 +1,6 @@
+data/
+data_for_viz/
+trained_models/
+visualize.py
+data_test.py
+results/
