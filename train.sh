@@ -1,0 +1,1 @@
+python train_cloud.py -batch_size 256 -lrt 0.001
