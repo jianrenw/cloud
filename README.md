@@ -1,6 +1,6 @@
 # CLOUD
 
-This project provides the official implementation of the CLOUD agent introduced in ["CLOUD: Contrastive Learning of Unsupervised Dynamics"](<https://arxiv.org/abs/2010.12488>), by Jianren Wang, Yujie Lu and Hang Zhao. 
+This project provides the official implementation of the CLOUD agent introduced in ["CLOUD: Contrastive Learning of Unsupervised Dynamics"](<https://proceedings.mlr.press/v155/wang21c.html>), by Jianren Wang*, Yujie Lu* and Hang Zhao. (* indicates equal contribution)
 
 ## Method
 
